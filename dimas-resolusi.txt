@@ -1,7 +1,8 @@
 Dimas Resolusi
-- Pelajari Zend
+
 - Pelajari GIT
 - Pelajari React
 - 1 bulan 5 project di github
 
 - coba kolaborasi
+- Pelajari Flutter
