@@ -4,4 +4,4 @@ Dimas Resolusi
 - Pelajari React
 - 1 bulan 5 project di github
 
-- coba kolaborasi dengan teman dan expert
+- coba kolaborasi
